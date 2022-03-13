@@ -1,0 +1,3 @@
+Michael Steven Ramirez Reyes
+Edad:20 años
+Al final de este curso aspiro haber ampliado mis conocimientos en Java y al manejo de la programacion orientada a objetos
