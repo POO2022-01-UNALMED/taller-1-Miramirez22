@@ -1,3 +1,6 @@
 Michael Steven Ramirez Reyes
 Edad:20 años
 Al final de este curso aspiro haber ampliado mis conocimientos en Java y al manejo de la programacion orientada a objetos
+al momento de crear la carpeta archivos no me dejaba hacer un commit, pero al crear un archivo dentro si
+¿Por que es importante tener cuidado con modificar dos archivos al mismo tiempo?
+El cuidado a la hora de modificar dos archivos al mismo tiempo se debe a que es mas facil cometer errores en uno o en ambos archivos, pudiendo arruinar el trabajo que se esta realizando
